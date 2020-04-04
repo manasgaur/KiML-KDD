@@ -17,10 +17,10 @@ Research in artificial intelligence and data science is accelerating rapidly due
 
 # Organizing Committee
 
-* Manas Gaur,  AI Institute, University of South Carolina. mgaur@email.sc.edu 
-* Alejandro (Alex) Jaimes, Dataminr Inc., USA. ajaimes@dataminr.com 
-* Fatma Özcan, IBM Research, USA.  fozcan@us.ibm.com 
-* Srinivasan Parthasarathy, Ohio State University, USA. srini@cse.ohio-state.edu 
-* Sameena Shah, JP Morgan, USA. sameena.shah@jpmorgan.ai 
-* Amit Sheth, AI Institute, University of South Carolina, USA. amit@sc.edu 
-* Biplav Srivastava, IBM Chief Analytics Office, USA. biplavs@us.ibm.com 
+* Manas Gaur,  AI Institute, University of South Carolina
+* Alejandro (Alex) Jaimes, Dataminr Inc., USA
+* Fatma Özcan, IBM Research, USA
+* Srinivasan Parthasarathy, Ohio State University, USA
+* Sameena Shah, JP Morgan, USA
+* Amit Sheth, AI Institute, University of South Carolina, USA
+* Biplav Srivastava, IBM Chief Analytics Office, USA
