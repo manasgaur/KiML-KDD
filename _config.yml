@@ -20,8 +20,8 @@ baseurl: "/KiML-KDD"
 
 # List of links in the navigation bar
 navbar-links:
-  about: "#about"
-  call: "#call"
+  about: "https://manasgaur.github.io/KiML-KDD/about.html"
+  call: "https://manasgaur.github.io/KiML-KDD/call.html"
   speakers: "#speakers"
     # - Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
     # - Learn markdown: "http://www.markdowntutorial.com/"
